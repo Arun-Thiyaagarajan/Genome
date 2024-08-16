@@ -9,7 +9,7 @@ if (data.range) {
                     if (data.range == 2548) {
                         value = data.numberOfSamples4 * 207.5;
                     }
-                    if (data.range == 49) {
+                    if (data.range == 4996) {
                         value = data.numberOfSamples4 * 195;
                     }
                 }
@@ -18,7 +18,7 @@ if (data.range) {
                     if (data.range == 18) {
                         value = data.numberOfSamples4 * 300;
                     }
-                    if (data.range == 9) {
+                    if (data.range == 924) {
                         value = data.numberOfSamples4 * 195;
                     }
                 }
@@ -32,7 +32,7 @@ if (data.range) {
                     if (data.range == 2548) {
                         value = data.numberOfSamples4 * 207.5;
                     }
-                    if (data.range == 49) {
+                    if (data.range == 4996) {
                         value = data.numberOfSamples4 * 195;
                     }
                 }
@@ -41,7 +41,7 @@ if (data.range) {
                     if (data.range == 18) {
                         value = data.numberOfSamples4 * 300;
                     }
-                    if (data.range == 9) {
+                    if (data.range == 924) {
                         value = data.numberOfSamples4 * 195;
                     }
                 }

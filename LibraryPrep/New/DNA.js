@@ -4,23 +4,23 @@ if (data.range) {
             if (data.species4 === 'illumina') {
                 if (data.testType6 === 'exome') {
                     if (data.testType7 == 6) {
-                        if (data.range == 128) {
+                        if (data.range == 618) {
                             value = data.numberOfSamples3 * 286;
                         }
-                        if (data.range == 1948) {
+                        if (data.range == 2448) {
                             value = data.numberOfSamples3 * 199.5;
                         }
-                        if (data.range == 49) {
+                        if (data.range == 5496) {
                             value = data.numberOfSamples3 * 171.5;
                         }
                     } else if (data.testType7 == 2) {
-                        if (data.range == 120) {
+                        if (data.range == 618) {
                             value = data.numberOfSamples3 * 367.5;
                         }
-                        if (data.range == 2148) {
+                        if (data.range == 2448) {
                             value = data.numberOfSamples3 * 280.5;
                         }
-                        if (data.range == 49) {
+                        if (data.range == 5496) {
                             value = data.numberOfSamples3 * 252.5;
                         }
                     }
@@ -31,7 +31,7 @@ if (data.range) {
                     if (data.range == 2548) {
                         value = data.numberOfSamples3 * 136;
                     }
-                    if (data.range == 49) {
+                    if (data.range == 4996) {
                         value = data.numberOfSamples3 * 118.5;
                     }
                 } else if (data.testType6 === 'wholeGenomeBisulfite') {
@@ -41,7 +41,7 @@ if (data.range) {
                     if (data.range == 2548) {
                         value = data.numberOfSamples3 * 133.5;
                     }
-                    if (data.range == 49) {
+                    if (data.range == 4996) {
                         value = data.numberOfSamples3 * 111.5;
                     }
                 } else if (data.testType6 === 'pGx') {
@@ -57,7 +57,7 @@ if (data.range) {
                     if (data.range == 1120) {
                         value = data.numberOfSamples3 * 227.5;
                     }
-                    if (data.range == 21) {
+                    if (data.range == 2140) {
                         value = data.numberOfSamples3 * 213;
                     }
                 }
@@ -71,7 +71,7 @@ if (data.range) {
                     if (data.range == 2548) {
                         value = data.numberOfSamples3 * 136;
                     }
-                    if (data.range == 49) {
+                    if (data.range == 4996) {
                         value = data.numberOfSamples3 * 118.5;
                     }
                 } else if (data.testType6 === 'wholeGenomeBisulfite') {
@@ -81,7 +81,7 @@ if (data.range) {
                     if (data.range == 2548) {
                         value = data.numberOfSamples3 * 133.5;
                     }
-                    if (data.range == 49) {
+                    if (data.range == 4996) {
                         value = data.numberOfSamples3 * 111.5;
                     }
 
@@ -94,7 +94,7 @@ if (data.range) {
                     if (data.range == 1120) {
                         value = data.numberOfSamples3 * 227.5;
                     }
-                    if (data.range == 21) {
+                    if (data.range == 2140) {
                         value = data.numberOfSamples3 * 213;
                     }
                 }
