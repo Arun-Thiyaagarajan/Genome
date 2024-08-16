@@ -108,23 +108,23 @@ if (data.range) {
             if (data.species4 === 'illumina') {
                 if (data.testType6 === 'exome') {
                     if (data.testType7 === 6) {
-                        if (data.numberOfSamples3 >= 1 && data.numberOfSamples3 <= 18) {
+                        if (data.numberOfSamples3 >= 6 && data.numberOfSamples3 <= 18) {
                             value = data.numberOfSamples3 * 286;
                         }
-                        if (data.numberOfSamples3 >= 19 && data.numberOfSamples3 <= 48) {
+                        if (data.numberOfSamples3 >= 24 && data.numberOfSamples3 <= 48) {
                             value = data.numberOfSamples3 * 199.5;
                         }
-                        if (data.numberOfSamples3 >= 49) {
+                        if (data.numberOfSamples3 >= 54 && data.numberOfSamples3 <= 96) {
                             value = data.numberOfSamples3 * 171.5;
                         }
                     } else if (data.testType7 === 2) {
-                        if (data.numberOfSamples3 >= 1 && data.numberOfSamples3 <= 20) {
+                        if (data.numberOfSamples3 >= 6 && data.numberOfSamples3 <= 18) {
                             value = data.numberOfSamples3 * 367.5;
                         }
-                        if (data.numberOfSamples3 >= 21 && data.numberOfSamples3 <= 48) {
+                        if (data.numberOfSamples3 >= 24 && data.numberOfSamples3 <= 48) {
                             value = data.numberOfSamples3 * 280.5;
                         }
-                        if (data.numberOfSamples3 >= 49) {
+                        if (data.numberOfSamples3 >= 54 && data.numberOfSamples3 <= 96) {
                             value = data.numberOfSamples3 * 252.5;
                         }
                     }
@@ -135,7 +135,7 @@ if (data.range) {
                     if (data.numberOfSamples3 >= 25 && data.numberOfSamples3 <= 48) {
                         value = data.numberOfSamples3 * 136;
                     }
-                    if (data.numberOfSamples3 >= 49) {
+                    if (data.numberOfSamples3 >= 49 && data.numberOfSamples3 <= 96) {
                         value = data.numberOfSamples3 * 118.5;
                     }
                 } else if (data.testType6 === 'wholeGenomeBisulfite') {
@@ -145,7 +145,7 @@ if (data.range) {
                     if (data.numberOfSamples3 >= 25 && data.numberOfSamples3 <= 48) {
                         value = data.numberOfSamples3 * 133.5;
                     }
-                    if (data.numberOfSamples3 >= 49) {
+                    if (data.numberOfSamples3 >= 49 && data.numberOfSamples3 <= 96) {
                         value = data.numberOfSamples3 * 111.5;
                     }
                 } else if (data.testType6 === 'pGx') {
@@ -161,7 +161,7 @@ if (data.range) {
                     if (data.numberOfSamples3 >= 11 && data.numberOfSamples3 <= 20) {
                         value = data.numberOfSamples3 * 227.5;
                     }
-                    if (data.numberOfSamples3 >= 21) {
+                    if (data.numberOfSamples3 >= 21 && data.numberOfSamples3 <= 40) {
                         value = data.numberOfSamples3 * 213;
                     }
                 }
@@ -175,7 +175,7 @@ if (data.range) {
                     if (data.numberOfSamples3 >= 25 && data.numberOfSamples3 <= 48) {
                         value = data.numberOfSamples3 * 136;
                     }
-                    if (data.numberOfSamples3 >= 49) {
+                    if (data.numberOfSamples3 >= 49 && data.numberOfSamples3 <= 96) {
                         value = data.numberOfSamples3 * 118.5;
                     }
                 } else if (data.testType6 === 'wholeGenomeBisulfite') {
@@ -185,7 +185,7 @@ if (data.range) {
                     if (data.numberOfSamples3 >= 25 && data.numberOfSamples3 <= 48) {
                         value = data.numberOfSamples3 * 133.5;
                     }
-                    if (data.numberOfSamples3 >= 49) {
+                    if (data.numberOfSamples3 >= 49 && data.numberOfSamples3 <= 96) {
                         value = data.numberOfSamples3 * 111.5;
                     }
 
@@ -198,7 +198,7 @@ if (data.range) {
                     if (data.numberOfSamples3 >= 11 && data.numberOfSamples3 <= 20) {
                         value = data.numberOfSamples3 * 227.5;
                     }
-                    if (data.numberOfSamples3 >= 21) {
+                    if (data.numberOfSamples3 >= 21 && data.numberOfSamples3 <= 40) {
                         value = data.numberOfSamples3 * 213;
                     }
                 }

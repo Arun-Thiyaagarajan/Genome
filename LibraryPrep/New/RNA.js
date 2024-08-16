@@ -60,7 +60,7 @@ else {
                     if (data.numberOfSamples4 >= 25 && data.numberOfSamples4 <= 48) {
                         value = data.numberOfSamples4 * 207.5;
                     }
-                    if (data.numberOfSamples4 >= 49) {
+                    if (data.numberOfSamples4 >= 49 && data.numberOfSamples4 <= 96) {
                         value = data.numberOfSamples4 * 195;
                     }
                 }
@@ -69,7 +69,7 @@ else {
                     if (data.numberOfSamples4 >= 1 && data.numberOfSamples4 <= 8) {
                         value = data.numberOfSamples4 * 300;
                     }
-                    if (data.numberOfSamples4 >= 9) {
+                    if (data.numberOfSamples4 >= 9 && data.numberOfSamples4 <= 24) {
                         value = data.numberOfSamples4 * 195;
                     }
                 }
@@ -83,7 +83,7 @@ else {
                     if (data.numberOfSamples4 >= 25 && data.numberOfSamples4 <= 48) {
                         value = data.numberOfSamples4 * 207.5;
                     }
-                    if (data.numberOfSamples4 >= 49) {
+                    if (data.numberOfSamples4 >= 49 && data.numberOfSamples4 <= 96) {
                         value = data.numberOfSamples4 * 195;
                     }
                 }
@@ -92,7 +92,7 @@ else {
                     if (data.numberOfSamples4 >= 1 && data.numberOfSamples4 <= 8) {
                         value = data.numberOfSamples4 * 300;
                     }
-                    if (data.numberOfSamples4 >= 9) {
+                    if (data.numberOfSamples4 >= 9 && data.numberOfSamples <= 24) {
                         value = data.numberOfSamples4 * 195;
                     }
                 }

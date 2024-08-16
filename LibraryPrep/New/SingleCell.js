@@ -163,7 +163,7 @@ else {
                         if (data.numberOfSamples5 >= 1 && data.numberOfSamples5 <= 4) {
                             value = data.numberOfSamples5 * 2122;
                         }
-                        if (data.numberOfSamples5 >= 5) {
+                        if (data.numberOfSamples5 >= 5 && data.numberOfSamples5 <= 8) {
                             value = data.numberOfSamples5 * 1876;
                         }
                     }
@@ -171,7 +171,7 @@ else {
                         if (data.numberOfSamples5 >= 1 && data.numberOfSamples5 <= 4) {
                             value = data.numberOfSamples5 * 1984;
                         }
-                        if (data.numberOfSamples5 >= 5) {
+                        if (data.numberOfSamples5 >= 5 && data.numberOfSamples5 <= 8) {
                             value = data.numberOfSamples5 * 1847.5;
                         }
                     }
@@ -179,7 +179,7 @@ else {
                         if (data.numberOfSamples5 >= 1 && data.numberOfSamples5 <= 4) {
                             value = data.numberOfSamples5 * 3518.5;
                         }
-                        if (data.numberOfSamples5 >= 5) {
+                        if (data.numberOfSamples5 >= 5 && data.numberOfSamples5 <= 8) {
                             value = data.numberOfSamples5 * 3223.5;
                         }
                     }
@@ -190,7 +190,7 @@ else {
                         if (data.numberOfSamples5 >= 1 && data.numberOfSamples5 <= 4) {
                             value = data.numberOfSamples5 * 2024.5;
                         }
-                        if (data.numberOfSamples5 >= 5) {
+                        if (data.numberOfSamples5 >= 5 && data.numberOfSamples5 <= 8) {
                             value = data.numberOfSamples5 * 1888;
                         }
                     }
@@ -198,7 +198,7 @@ else {
                         if (data.numberOfSamples5 >= 1 && data.numberOfSamples5 <= 4) {
                             value = data.numberOfSamples5 * 3542.5;
                         }
-                        if (data.numberOfSamples5 >= 5) {
+                        if (data.numberOfSamples5 >= 5 && data.numberOfSamples5 <= 8) {
                             value = data.numberOfSamples5 * 3256;
                         }
                     }
@@ -211,7 +211,7 @@ else {
                         if (data.numberOfSamples5 >= 1 && data.numberOfSamples5 <= 4) {
                             value = data.numberOfSamples5 * 2122;
                         }
-                        if (data.numberOfSamples5 >= 5) {
+                        if (data.numberOfSamples5 >= 5 && data.numberOfSamples5 <= 8) {
                             value = data.numberOfSamples5 * 1876;
                         }
                     }
@@ -219,7 +219,7 @@ else {
                         if (data.numberOfSamples5 >= 1 && data.numberOfSamples5 <= 4) {
                             value = data.numberOfSamples5 * 1984;
                         }
-                        if (data.numberOfSamples5 >= 5) {
+                        if (data.numberOfSamples5 >= 5 && data.numberOfSamples5 <= 8) {
                             value = data.numberOfSamples5 * 1847.5;
                         }
                     }
@@ -227,7 +227,7 @@ else {
                         if (data.numberOfSamples5 >= 1 && data.numberOfSamples5 <= 4) {
                             value = data.numberOfSamples5 * 3518.5;
                         }
-                        if (data.numberOfSamples5 >= 5) {
+                        if (data.numberOfSamples5 >= 5 && data.numberOfSamples5 <= 8) {
                             value = data.numberOfSamples5 * 3223.5;
                         }
                     }
@@ -239,7 +239,7 @@ else {
                         if (data.numberOfSamples5 >= 1 && data.numberOfSamples5 <= 4) {
                             value = data.numberOfSamples5 * 2024.5;
                         }
-                        if (data.numberOfSamples5 >= 5) {
+                        if (data.numberOfSamples5 >= 5 && data.numberOfSamples5 <= 8) {
                             value = data.numberOfSamples5 * 1888;
                         }
                     }
@@ -247,7 +247,7 @@ else {
                         if (data.numberOfSamples5 >= 1 && data.numberOfSamples5 <= 4) {
                             value = data.numberOfSamples5 * 3542.5;
                         }
-                        if (data.numberOfSamples5 >= 5) {
+                        if (data.numberOfSamples5 >= 5 && data.numberOfSamples5 <= 8) {
                             value = data.numberOfSamples5 * 3256;
                         }
                     }
@@ -262,7 +262,7 @@ else {
                         if (data.numberOfSamples5 >= 1 && data.numberOfSamples5 <= 4) {
                             value = data.numberOfSamples5 * 2122;
                         }
-                        if (data.numberOfSamples5 >= 5) {
+                        if (data.numberOfSamples5 >= 5 && data.numberOfSamples5 <= 8) {
                             value = data.numberOfSamples5 * 1876;
                         }
                     }
@@ -270,7 +270,7 @@ else {
                         if (data.numberOfSamples5 >= 1 && data.numberOfSamples5 <= 4) {
                             value = data.numberOfSamples5 * 1984;
                         }
-                        if (data.numberOfSamples5 >= 5) {
+                        if (data.numberOfSamples5 >= 5 && data.numberOfSamples5 <= 8) {
                             value = data.numberOfSamples5 * 1847.5;
                         }
                     }
@@ -278,7 +278,7 @@ else {
                         if (data.numberOfSamples5 >= 1 && data.numberOfSamples5 <= 4) {
                             value = data.numberOfSamples5 * 3518.5;
                         }
-                        if (data.numberOfSamples5 >= 5) {
+                        if (data.numberOfSamples5 >= 5 && data.numberOfSamples5 <= 8) {
                             value = data.numberOfSamples5 * 3223.5;
                         }
                     }
@@ -290,7 +290,7 @@ else {
                         if (data.numberOfSamples5 >= 1 && data.numberOfSamples5 <= 4) {
                             value = data.numberOfSamples5 * 2024.5;
                         }
-                        if (data.numberOfSamples5 >= 5) {
+                        if (data.numberOfSamples5 >= 5 && data.numberOfSamples5 <= 8) {
                             value = data.numberOfSamples5 * 1888;
                         }
                     }
@@ -298,7 +298,7 @@ else {
                         if (data.numberOfSamples5 >= 1 && data.numberOfSamples5 <= 4) {
                             value = data.numberOfSamples5 * 3542.5;
                         }
-                        if (data.numberOfSamples5 >= 5) {
+                        if (data.numberOfSamples5 >= 5 && data.numberOfSamples5 <= 8) {
                             value = data.numberOfSamples5 * 3256;
                         }
                     }
